@@ -10,7 +10,7 @@ docs = loader.load()
 
 splitter = CharacterTextSplitter(
     chunk_size=100,
-    chunk_overlap=0,
+    chunk_overlap=50,
     separator=''
     )    
 result = splitter.split_documents(docs)
