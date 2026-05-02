@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Cancer_Type,Stage,Treatment,Status
+P001,Ravi Sharma,45,Male,Lung Cancer,Stage II,Chemotherapy,Stable
+P002,Anita Verma,38,Female,Breast Cancer,Stage I,Surgery,Recovered
+P003,Mohit Gupta,60,Male,Prostate Cancer,Stage III,Radiation Therapy,Under Treatment
+P004,Sneha Patel,50,Female,Ovarian Cancer,Stage II,Chemotherapy,Stable
+P005,Amit Singh,55,Male,Colon Cancer,Stage IV,Targeted Therapy,Critical
+P006,Neha Joshi,42,Female,Breast Cancer,Stage II,Surgery + Chemo,Stable
+P007,Rajesh Kumar,65,Male,Liver Cancer,Stage III,Immunotherapy,Under Treatment
+P008,Pooja Mehta,30,Female,Thyroid Cancer,Stage I,Surgery,Recovered
+P009,Vikas Jain,48,Male,Pancreatic Cancer,Stage IV,Chemotherapy,Critical
+P010,Kiran Yadav,52,Female,Cervical Cancer,Stage II,Radiation Therapy,Stable
